@@ -1,29 +1,38 @@
 # Panda Agent Labs
 
-**Independent, self-funded software product development.**
+**Independent, bootstrapped software development — two products, practical workflows, and verifiable results.**
 
-Panda Agent Labs is an early-stage initiative led by a solo founder. We build practical tools that help individuals and small teams organize work, track execution, and verify outcomes.
+Panda Agent Labs is an early-stage initiative led by a solo founder. We build tools to help people keep knowledge organized and work moving, with an emphasis on local control, clear task status, and dependable everyday use.
 
-## What we're building
+## Products in development
 
-### WORK-OS — task and workflow coordination
+### Kabase — traceable Markdown knowledge workflows
 
-An early-stage product exploring clearer task tracking, workflow coordination, and execution verification. WORK-OS is currently in prototype development; it is not presented here as a generally available commercial product.
+Kabase is a local-first workflow for organizing Markdown knowledge, reviewing inputs, and turning selected information into traceable work items.
 
-### Internal engineering R&D
+The product is being developed as two complementary components: a command-line tool and a starter knowledge-base template. Both remain under private engineering review; **Kabase is not publicly released**.
 
-We experiment with reliable AI-assisted development workflows, including GitHub Issues and pull requests, automated tests, and structured engineering reviews. These internal workflows support product development; they are not claims of a deployed customer-facing service.
+### TaskNote — reliable task capture and follow-through
+
+TaskNote is an offline-capable task-tracking prototype focused on straightforward manual entry, visible task status, and follow-up. It also explores rule-based natural-language parsing and optional AI-assisted interpretation.
+
+The current standalone prototype uses browser-local storage. Data recovery, cross-device behavior, and external integrations still require further validation; **TaskNote is not a generally available service**.
+
+## How we build
+
+We use AI-assisted engineering, GitHub Issues and Draft pull requests, automated tests, independent review, and hands-on product testing. Internal experiments such as WORK-OS and multi-agent orchestration support our engineering research; they are not presented as additional commercial products here.
 
 ## Current stage
 
-- **Founder:** Solo founder
-- **Funding:** Bootstrapped / self-funded
-- **Product maturity:** Prototypes and engineering validation
-- **Current focus:** Build a usable MVP, strengthen test coverage, and validate product-market needs
+- **Team:** Solo founder
+- **Funding:** Self-funded / bootstrapped
+- **Maturity:** Prototype and MVP validation
+- **Priorities:** Product reliability, usable installation and recovery, and feedback from early testers
+- **Source code:** Active product repositories remain private during pre-release review
 
-## Updates and contact
+## Updates
 
-- **GitHub organization:** [Panda Agent Labs](https://github.com/panda-agent-labs)
-- **Founder GitHub:** [pandagf123](https://github.com/pandagf123)
+- [Panda Agent Labs on GitHub](https://github.com/panda-agent-labs)
+- [Founder on GitHub](https://github.com/pandagf123)
 
-This profile is a public overview only. Active development may take place in private repositories. No customer deployments, revenue, investment, or commercial partnerships are claimed here.
+This public overview describes work in progress. It does not imply an incorporated company, outside funding, customer deployments, revenue, partnerships, or a public product launch.
