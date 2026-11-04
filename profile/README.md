@@ -1,38 +1,39 @@
 # Panda Agent Labs
 
-**Independent, bootstrapped software development — two products, practical workflows, and verifiable results.**
+**Independent, bootstrapped software development — practical, local-first tools for knowledge and work.**
 
-Panda Agent Labs is an early-stage initiative led by a solo founder. We build tools to help people keep knowledge organized and work moving, with an emphasis on local control, clear task status, and dependable everyday use.
+Panda Agent Labs is an early-stage initiative run by a solo founder. We are developing two separate desktop products with an emphasis on portability, clear workflows, and verifiable results.
 
-## Products in development
+## Products in private alpha
 
-### Kabase — traceable Markdown knowledge workflows
+### Arkvanta — a portable knowledge workspace
 
-Kabase is a local-first workflow for organizing Markdown knowledge, reviewing inputs, and turning selected information into traceable work items.
+An offline-first, Markdown-based workspace for organizing notes, searching source material, maintaining links between documents, and preserving control over local files. We are improving source-grounded retrieval, backup/restore, and everyday reliability.
 
-The product is being developed as two complementary components: a command-line tool and a starter knowledge-base template. Both remain under private engineering review; **Kabase is not publicly released**.
+**Stage:** Internal macOS alpha accepted in hands-on testing. Further cross-platform hardware and product UX testing is pending. **Not publicly available.**
 
-### TaskNote — reliable task capture and follow-through
+### Actoryn — action records and task follow-through
 
-TaskNote is an offline-capable task-tracking prototype focused on straightforward manual entry, visible task status, and follow-up. It also explores rule-based natural-language parsing and optional AI-assisted interpretation.
+A local-first desktop app for capturing tasks, moving them through clear execution states, recording progress, and retaining outcomes and supporting evidence. Current work focuses on Chinese-language guidance and dependable progress/evidence storage.
 
-The current standalone prototype uses browser-local storage. Data recovery, cross-device behavior, and external integrations still require further validation; **TaskNote is not a generally available service**.
+**Stage:** Internal macOS alpha provisionally accepted with follow-up usability improvements underway. Collaborative accounts and autonomous task execution are not yet implemented. **Not publicly available.**
 
 ## How we build
 
-We use AI-assisted engineering, GitHub Issues and Draft pull requests, automated tests, independent review, and hands-on product testing. Internal experiments such as WORK-OS and multi-agent orchestration support our engineering research; they are not presented as additional commercial products here.
+We use AI-assisted engineering, GitHub Issue and Draft PR workflows, automated tests, and hands-on acceptance. These are independent products, not a public coding-agent service or a claim of partnership with our tool providers.
 
 ## Current stage
 
-- **Team:** Solo founder
-- **Funding:** Self-funded / bootstrapped
-- **Maturity:** Prototype and MVP validation
-- **Priorities:** Product reliability, usable installation and recovery, and feedback from early testers
-- **Source code:** Active product repositories remain private during pre-release review
+- **Founder:** Independent solo founder
+- **Funding:** Self-funded; no institutional investment claimed
+- **Maturity:** Private alpha and iterative product validation
+- **Source:** Product code is private during pre-release review
+- **Distribution:** No public release, paid customer deployment, or public beta announced
 
-## Updates
+## Follow progress
 
 - [Panda Agent Labs on GitHub](https://github.com/panda-agent-labs)
 - [Founder on GitHub](https://github.com/pandagf123)
+- [Panda Agent Labs updates on X](https://x.com/PANDAKF123)
 
-This public overview describes work in progress. It does not imply an incorporated company, outside funding, customer deployments, revenue, partnerships, or a public product launch.
+This public profile describes active work in progress. It does not imply incorporation, external funding, sponsorship, commercial partnership, revenue, or general availability.
